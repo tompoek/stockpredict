@@ -35,4 +35,4 @@ LSTM hidden size: 1...6
 Activation function: None (Direct Output) / Linear / Sigmoid / Linear => Sigmoid
 
 Example prediction: (more in imgs folder)
-![](./imgs/gruLayers1Hidden2_linearOut.png)
+![](./imgs/gruLayers1Hidden5_linearOut.png)
